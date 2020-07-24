@@ -15,4 +15,4 @@ Create your very own invisibility cloak using python's opencv package.
 * Numpy package installed
 
 ## Contributors:
-Tanisha Rakshit
+Sonal Nandurkar
